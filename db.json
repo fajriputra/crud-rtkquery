@@ -1,0 +1,22 @@
+{
+  "products": [
+    {
+      "name": "sepatu lawas",
+      "price": "150000",
+      "stock": 3,
+      "id": 1
+    },
+    {
+      "name": "GAMING GEAR",
+      "price": "40000",
+      "stock": "3",
+      "id": 2
+    },
+    {
+      "name": "test lagi",
+      "price": "30000",
+      "stock": "3",
+      "id": 3
+    }
+  ]
+}
